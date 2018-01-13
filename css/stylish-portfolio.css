@@ -264,12 +264,12 @@ a {
     color: #0D3B66; }
 
 .btn-primary {
-  background-color: #1D809F !important;
-  border-color: #1D809F !important;
+  background-color: #0D3B66 !important;
+  border-color: #0D3B66 !important;
   color: #FEFDF6 !important; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-    background-color: #155d74 !important;
-    border-color: #155d74 !important; }
+    background-color: #AA4E47 !important;
+    border-color: #AA4E47 !important; }
 
 .btn-secondary {
   background-color: #ecb807 !important;
