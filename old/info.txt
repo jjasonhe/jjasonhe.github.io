@@ -1,0 +1,150 @@
+Project Name
+Tagline
+Dates			when
+
+Inspiration		why
+Functionality	what it does
+				how it works
+Components		how
+Links
+Team			who
+Achievements
+
+
+
+Pharmascope
+NFC Medication Tracking
+September 2017
+Links
+https://devpost.com/software/pharmascope
+https://github.com/jjasonhe/medhacks2017
+https://ericscrum.github.io/medhacks2017/index.html
+
+Inspiration
+In the processes of delivering therapy to patients, 61% of medication errors occur between the order verification process, dispensing, and administration. According to the IOM, on average every hospital patient is probably subjected to at least one medication error every day and over $21 billion annually goes toward treating the consequences of medication errors. These preventable medication errors demand an efficient medication tracking system integrated in each step of hospital workflow, so healthcare professionals can catch errors before they reach the patient. Ideally, the solution to preventing medication errors will not only simply track a medication, but also provide a system that reduces health care professional’s workload, and be customizable to serve multiple purposes.
+
+Functionality
+Our product improves hospital efficiency by reducing delay of medication administration, severely reducing time that nurses spend tracking down missing medication, reducing preventable medication errors, and providing a secure system for tracking the logistics of medication in the hospital.
+
+We do this by attaching a NFC tag to each unit dose. Medications for patients in the hospital are packaged per pill instead of given in large stock bottles that you find supermarkets. When scanned, the NFC tag will reveal the unique number for the pill, its NDC (national drug code), expiration date, and lot number. This system makes it so nurses no longer need to scan individual barcodes but can instead wave multiple pills over a sensor before administration to a patient. Sensors at different walkways, floors and rooms can track the location of each pill (similar to how cars are tracked in a ezpass lane) with no effort on the nurses part and also allow other hospital healthcare professionals to immediately know if a pill is misplaced. Furthermore, this system acts is an instant verification system to make sure pills are not accidentally administered to the wrong patient, as at least 1.5 million Americans injured by medication errors every year. Finally, the system can also automatically alert the hospital when the pill expires or if the lot number is recalled. Ultimately, the NFC tags offer a fast and efficient system to monitor and reduce the probability of medication errors reaching the patient and causing harm.
+
+We chose to track the unit package through NFC for a couple of reasons. Tags are also very non-intrusive and can be kept inside of products. The tags and readers are super cheap with each individual tag costing as little as 2 cents each. Furthermore, the range is large enough that unit doses can be batch scanned which will severely reduce time that nurses spend scanning each individual unit dose.
+
+This system will save the hospital money due to a variety of reasons. First, it reduces time spent scanning barcodes. Second, we can use data visualization to optimize workflow and determine where pills are commonly misplaced. Due to how fast inventory can be taken, a tighter inventory can be implemented. Finally, hospitals will be able to reduce the money wasted on re-dispensing medications that were lost, reducing opportunity costs for menial tasks and by flagging soon to expire medications.
+
+Technologies I worked with
+Android
+NFC
+
+Teammates
+Alec Huang - Pharmacy, University of the Sciences in Philadelphia
+Eric Cramer - Bioinformatics, Stanford University
+Jason He - Electrical Engineering, Stanford University
+Ted Mao - Electrical Engineering, University of Texas at Austin
+Tracy Zhang - Pharmacy, Rutgers University
+
+Achievements
+2017 Johns Hopkins MedHacks Top 8 (out of 98)
+
+GRIT
+Handshake-triggered Graduation Cap Lightshow
+May 2017
+Links
+https://github.com/jjasonhe/GRIT
+Schematic
+
+Inspiration
+
+Functionality
+
+Technologies I worked with
+Arduino
+LilyPad
+LEDs + photoresistors
+Conductive thread
+Soldering
+Sewing
+Hot glue
+
+VEPi
+Low-cost Evoked Potential Device
+March 2017 - May 2017
+Links
+Schematic
+
+Inspiration
+
+Functionality
+
+Technologies I worked with
+EAGLE
+Breadboard prototyping
+Laser cutting
+Othermill Pro
+Raspberry Pi
+24-bit A/D board
+EEG acquisition
+Surface electrodes
+
+Teammates 
+Keum San Chun - Electrical Engineering, University of Texas at Austin
+Qiaowei Joel Tang - Biomedical Engineering, University of Texas at Austin
+
+Smack
+Smart Bike Rack
+Aug 2016 - May 2017
+Links
+http://www.dailytexanonline.com/2017/05/04/ut-seniors’-new-startup-creates-smart-bike-racks
+https://github.com/jjasonhe/smack
+Schematic
+
+Inspiration
+
+Functionality
+
+Technologies I worked with
+EAGLE
+C
+Keil uVision 5
+Energia
+Arduino
+Matrix Keypad
+TI MSP432
+TI CC3100 SimpleLink WiFi Boosterpack
+
+Achievements
+2017 UT ECE Spring Senior Design Competition - 1st Place in Honors/Entrepreneurial
+
+buDDy
+Breathalyzer Lock Box
+October 2016 - December 2016
+Links
+Schematic
+Enclosure design
+
+Inspiration
+
+Functionality
+
+Technologies I worked with
+C
+Keil uVision 4
+PCB Artist
+TI TM4C123
+Breadboard prototyping
+Laser cutting
+
+Achievements
+2016 UT Embedded Systems Design Lab Competition - 1st Place
+
+SWATeam
+Mapping Zika Virus
+August 2016 - October 2016
+
+Got Your Back
+Smart Ergonomic Backrest
+June 2015 - August 2015
+
+Vitalgorithms
+Detecting Heart Disease
+May 2013 - August 2014

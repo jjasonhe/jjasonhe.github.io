@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Remove typing text</title>
+	<link rel="stylesheet" href="static/styles.css">
+	<link rel="stylesheet" href="http://yandex.st/highlightjs/8.0/styles/github.min.css">
+	<script src="http://yandex.st/jquery/2.0.3/jquery.min.js"></script>
+	<script src="http://yandex.st/highlightjs/8.0/highlight.min.js"></script>
+	<script src="../dist/jquery.typist.js"></script>
+	<script>
+	jQuery(function($) {
+        $('.typist')
+          .typist({
+            text: 'I like creating'
+          })
+          .typistPause(1000)
+          .typistRemove(8)
+          .typistAdd('learning')
+          .typistPause(1000)
+          .typistRemove(8)}
+      });
+	</script>
+</head>
+<body>
+
+	<p class="typist"></p>
+
+
+</body>
+</html>
